@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/nfs/zfs-student-3/users/vgrenier/.oh-my-zsh
+export ZSH=/nfs/2015/v/vgrenier/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
